@@ -15,6 +15,7 @@ class myStack:
      def size(self):
          
      def show(self):
+       print("hi")
          
 
 s = myStack()
